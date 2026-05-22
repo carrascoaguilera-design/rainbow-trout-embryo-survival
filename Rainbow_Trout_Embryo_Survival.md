@@ -49,7 +49,7 @@ Any additional columns (e.g., an index) will be removed automatically. The scrip
 
 ## 🚀 How to Run the Script
 
-1. **Clone this repository** or download `Jonathan_Carrasco_clean.R`.
+1. **Clone this repository** or download `rainbow-trout-embryo-survival.R`.
 2. **Place your own `desove.xlsx` file** in the same directory as the script.
 3. **Open RStudio** and run the script line by line or source the entire file.
 4. **All required packages will be installed automatically** (except `inspectdf` and `autoplotly` which were removed for compatibility; the script uses base R graphics and `ggplot2` instead).
