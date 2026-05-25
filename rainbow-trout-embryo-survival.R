@@ -3,6 +3,13 @@
 # Species: Rainbow Trout (Oncorhynchus mykiss)
 # Objective: Assess whether female reproductive traits can predict embryo survival
 # Author: Jonathan Carrasco
+# License: MIT License (see LICENSE file in the same folder)
+# This software is provided "as is", without warranty of any kind.
+# You are free to use, modify, and distribute it, provided that the
+# original copyright notice and this license notice are retained.
+# For more details, see: https://opensource.org/licenses/MIT
+# By using this script, you agree to retain the above copyright notice
+# and to credit the original author (Jonathan Carrasco) in any derivative works.
 # Date: 2024-11-19 (final version)
 # ==============================================================================
 
